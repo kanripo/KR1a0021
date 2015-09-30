@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 紫巖易傳
-#+DATE: 2015-09-23 09:34:17
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 21:54:01.937721
+#+PROPERTY: ID KR1a0021
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋
 <pb:KR1a0021_WYG_011-1a>¶
 紫巖易傳跋¶
 曽王父忠獻公潛心於易嘗為之傳前後兩著稿親題¶
@@ -11,4 +13,3 @@
 黙體道卒究聖人心法又答澹庵胡公書云杜門亦惟¶
 聖賢之道是求夫求而得之者其在是矣惜其傳之未¶
 廣朅来春陵刻於郡齋與學者共之¶
-
